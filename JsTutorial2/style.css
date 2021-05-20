@@ -1,0 +1,63 @@
+*{
+    padding: 0;
+    border: 0;
+    list-style: none;
+    margin: 0 auto;
+}
+.main{
+    width: 1200px;
+    height: 200vh;
+    border: 5px solid salmon;
+    overflow: hidden;
+}
+.main .header1{
+    font-family: 'Bungee Shade', cursive; 
+    color: salmon;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    position: relative;
+    margin: 45px 0;
+}
+.main img{
+    width: 1200px;
+    height: 200px;
+    object-fit: cover;
+    display: flex;
+    position: relative;
+    overflow: hidden;
+    margin: 45px 0;
+}
+.main .info1{
+    font-family: 'Bungee Shade', cursive; 
+    color: salmon;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    position: relative;
+    margin: 45px 0;
+    height: 20vh;
+}
+.page2{
+    margin: 35% 0;
+    overflow: hidden;
+}
+.page2 .header2{
+    font-family: 'Bungee Shade', cursive; 
+    color: salmon;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    position: relative;
+    margin: 45px 0;
+}
+.page2 .info2{
+    font-family: 'Bungee Shade', cursive; 
+    color: salmon;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    position: relative;
+    margin: 45px 0;
+    height: 20vh;
+}
